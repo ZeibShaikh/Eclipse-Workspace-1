@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [01/Nov/2023:00:00:02 +0530] "POST /LoginRegister/loginForm HTTP/1.1" 200 518
+0:0:0:0:0:0:0:1 - - [01/Nov/2023:00:00:57 +0530] "POST /LoginRegister/loginForm HTTP/1.1" 200 518
+0:0:0:0:0:0:0:1 - - [01/Nov/2023:00:01:04 +0530] "POST /LoginRegister/loginForm HTTP/1.1" 200 149
+0:0:0:0:0:0:0:1 - - [01/Nov/2023:00:29:01 +0530] "POST /LoginRegister/loginForm HTTP/1.1" 200 155
+127.0.0.1 - - [01/Nov/2023:02:23:35 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [01/Nov/2023:02:23:36 +0530] "GET /LoginRegisterPractice/myForm.jsp HTTP/1.1" 200 992
+0:0:0:0:0:0:0:1 - - [01/Nov/2023:02:24:10 +0530] "POST /LoginRegisterPractice/registerForm HTTP/1.1" 200 1070
+0:0:0:0:0:0:0:1 - - [01/Nov/2023:02:24:51 +0530] "GET /LoginRegisterPractice/myForm.jsp HTTP/1.1" 200 992
+0:0:0:0:0:0:0:1 - - [01/Nov/2023:02:25:07 +0530] "POST /LoginRegisterPractice/registerForm HTTP/1.1" 200 1015
+127.0.0.1 - - [01/Nov/2023:03:18:28 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [01/Nov/2023:03:18:29 +0530] "GET /LoginRegisterPractice/login.jsp HTTP/1.1" 200 499
+0:0:0:0:0:0:0:1 - - [01/Nov/2023:03:18:36 +0530] "POST /LoginRegisterPractice/loginForm HTTP/1.1" 200 524
+0:0:0:0:0:0:0:1 - - [01/Nov/2023:03:19:45 +0530] "GET /LoginRegisterPractice/myForm.jsp HTTP/1.1" 200 1014
+0:0:0:0:0:0:0:1 - - [01/Nov/2023:03:19:57 +0530] "POST /LoginRegisterPractice/registerForm HTTP/1.1" 200 1037
+0:0:0:0:0:0:0:1 - - [01/Nov/2023:03:20:10 +0530] "POST /LoginRegisterPractice/loginForm HTTP/1.1" 200 154

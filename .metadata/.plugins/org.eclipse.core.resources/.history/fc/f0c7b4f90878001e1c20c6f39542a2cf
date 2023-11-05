@@ -1,0 +1,41 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="regForm" method="post">
+<div>
+<label for="name">Name:</label>
+<input type="text" name="name" placeholder="Enter name..">
+</div>
+<div>
+<label for="email">Email:</label>
+<input type="email" name="email" placeholder="Enter email id">
+</div>
+<div>
+<label for="password">Password:</label>
+<input type="password" name="password" placeholder="Enter password">
+</div>
+<div>
+<input type="radio" name="gender">Male
+<input type="radio" name="gender">Female
+</div>
+<div>
+<label for="city">Name:</label>
+<select name="city">City:
+<option>Mumbai</option>
+<option>Delhi</option>
+<option>Pune</option>
+<option>Banglore</option>
+</select>
+</div>
+<div>
+<input type="submit" value="Register">
+</div>
+</form>
+</body>
+</html>

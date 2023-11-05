@@ -1,0 +1,5 @@
+package com.zeib.beans;
+
+public class Student {
+
+}

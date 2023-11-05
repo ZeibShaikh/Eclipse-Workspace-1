@@ -1,0 +1,8 @@
+127.0.0.1 - - [30/Oct/2023:23:48:59 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [30/Oct/2023:23:49:00 +0530] "GET /Proj1/index.html HTTP/1.1" 200 157
+0:0:0:0:0:0:0:1 - - [30/Oct/2023:23:49:00 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+127.0.0.1 - - [30/Oct/2023:23:50:04 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [30/Oct/2023:23:50:05 +0530] "GET /ServletFirstDemo/servlet/com.zeib.servlet.FirstDemo HTTP/1.1" 404 811
+127.0.0.1 - - [30/Oct/2023:23:59:48 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [30/Oct/2023:23:59:48 +0530] "GET /ServletFirstDemo/WEB-INF/web.xml HTTP/1.1" 404 683
+0:0:0:0:0:0:0:1 - - [30/Oct/2023:23:59:54 +0530] "GET /ServletFirstDemo/WEB-INF/web.xml/aaa HTTP/1.1" 404 683

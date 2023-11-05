@@ -1,0 +1,5 @@
+package com.zeib.springboot.springbootdemo;
+
+public class Course {
+
+}

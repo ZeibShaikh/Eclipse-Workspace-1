@@ -1,0 +1,24 @@
+package com.zeib.learnspringframework;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+record Person(String name,int age) {};
+
+@Configuration
+public class HelloWorldConfig {
+	
+	@Bean
+	public String name() {
+		return "Zeib";
+	}
+	@Bean
+	public int age() {
+		return 21;
+	}
+	@Bean
+	public Person person() {
+		var person=new Person("Raj",21);
+		return person;
+	}
+}

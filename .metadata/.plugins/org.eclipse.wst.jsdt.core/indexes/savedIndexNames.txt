@@ -1,0 +1,16 @@
+INDEX VERSION 1.4+D:\Zeib\Eclipse-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1630328012.index
+4219666279.index
+2728784706.index
+1556846658.index
+1769442953.index
+1904641285.index
+1374239801.index
+813899037.index
+370492429.index
+2880085702.index
+2341189441.index
+2590133741.index
+3203187193.index
+4135838032.index
+2397528642.index

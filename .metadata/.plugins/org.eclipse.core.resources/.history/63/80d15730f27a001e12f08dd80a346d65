@@ -1,0 +1,10 @@
+package com.zeib.learnspringframework;
+
+public class App02HelloWorldSpring {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.zeib.learnspringframework.game;
+
+public interface GamingConsole {
+
+}

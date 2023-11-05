@@ -1,0 +1,8 @@
+package com.zeib.learnspringframework.game;
+
+public class GameRunner {
+	public MarioGame game;
+	public GameRunner(MarioGame game) {
+		this.game=game;
+	}
+}
